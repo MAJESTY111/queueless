@@ -8,6 +8,20 @@ It provides attendees with digital tickets and queue information while giving ev
 
 > **Current status:** Frontend-focused prototype with mock event data and client-side interactions. No backend, authentication, or real-time server infrastructure yet.
 
+## 📸 Screenshots
+
+### Attendee Ticket
+![Attendee Ticket](screenshots/attendee.png)
+
+### Queue Management
+![Queue Management](screenshots/queue.png)
+
+### Ticket Scanner
+![Ticket Scanner](screenshots/scanner.png)
+
+### Admin Dashboard
+![Admin Dashboard](screenshots/dashboard.png)
+
 ## ✨ Features
 
 - 🎟️ Digital event tickets
